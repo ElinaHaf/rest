@@ -28,11 +28,12 @@
       },
       "currency": {
         "type": "string",
-          "prop1": "RUB",
-          "prop2": "USD"
+        "pattern": "RUB|USD"
           }
         }
       }
     }
+
+
 
 
